@@ -1,13 +1,10 @@
 {
     "manifest_version": 3,
-    "name": "Student Attendance Tracker",
+    "name": "Student Attendance Extension",
     "version": "1.0",
-    "description": "Tracks attendance and shows transcript summary.",
+    "description": "Tracks student attendance and transcript summary",
     "action": {
-      "default_popup": "popup.html",
-      "default_icon": {
-        "16": "icon.png"
-      }
+      "default_popup": "popup.html"
     },
     "permissions": []
   }
